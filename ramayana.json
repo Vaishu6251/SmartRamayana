@@ -1,0 +1,147 @@
+[
+  {
+    "title": "The Birth of Rama",
+    "chapter": "Bala Kanda",
+    "characters": [
+      "Dasharatha",
+      "Kaushalya",
+      "Vishwamitra"
+    ],
+    "summary": "King Dasharatha performs a yajna to be blessed with children. Rama is born along with his three brothers.",
+    "moral": "Faith and righteousness bring divine blessings.",
+    "quote": "Let the sacred yajna bring forth sons to the king.",
+    "location": "Ayodhya",
+    "image": "birth_rama.jpg"
+  },
+  {
+    "title": "Rama Breaks Shiva's Bow",
+    "chapter": "Bala Kanda",
+    "characters": [
+      "Rama",
+      "Sita",
+      "Janaka",
+      "Parashurama"
+    ],
+    "summary": "Rama lifts and breaks the mighty bow of Shiva during Sita's swayamvar, winning her hand in marriage.",
+    "moral": "True strength lies in humility.",
+    "quote": "He who strings this bow shall marry Sita.",
+    "location": "Mithila",
+    "image": "sita_swayamvar.jpg"
+  },
+  {
+    "title": "Rama’s Exile",
+    "chapter": "Ayodhya Kanda",
+    "characters": [
+      "Rama",
+      "Kaikeyi",
+      "Dasharatha",
+      "Sita",
+      "Lakshmana"
+    ],
+    "summary": "Due to Kaikeyi’s demand, Rama is exiled for 14 years. He leaves Ayodhya with Sita and Lakshmana.",
+    "moral": "Respect for promises is higher than personal comfort.",
+    "quote": "I gladly accept this exile to honor my father’s word.",
+    "location": "Ayodhya",
+    "image": "rama_exile.jpg"
+  },
+  {
+    "title": "Shurpanakha's Revenge",
+    "chapter": "Aranya Kanda",
+    "characters": [
+      "Shurpanakha",
+      "Rama",
+      "Lakshmana",
+      "Ravana"
+    ],
+    "summary": "Shurpanakha is humiliated by Rama and Lakshmana. She provokes Ravana to abduct Sita.",
+    "moral": "Actions driven by ego can cause destruction.",
+    "quote": "I shall seek vengeance for this insult!",
+    "location": "Panchavati",
+    "image": "golden_deer.jpg"
+  },
+  {
+    "title": "Sita’s Abduction",
+    "chapter": "Aranya Kanda",
+    "characters": [
+      "Sita",
+      "Ravana",
+      "Jatayu"
+    ],
+    "summary": "Ravana kidnaps Sita while Rama and Lakshmana are away. Jatayu tries to save her but fails.",
+    "moral": "Courage can shine even in defeat.",
+    "quote": "Oh Rama! Save me!",
+    "location": "Dandakaranya",
+    "image": "sita_abducted.jpg"
+  },
+  {
+    "title": "Hanuman Meets Rama",
+    "chapter": "Kishkindha Kanda",
+    "characters": [
+      "Hanuman",
+      "Rama",
+      "Sugriva"
+    ],
+    "summary": "Hanuman becomes a devotee of Rama and offers to help in the search for Sita.",
+    "moral": "Devotion transcends all boundaries.",
+    "quote": "I am at your service, my lord.",
+    "location": "Rishyamukha Mountain",
+    "image": "rama_meets_hanuman.jpg"
+  },
+  {
+    "title": "Hanuman’s Leap to Lanka",
+    "chapter": "Sundara Kanda",
+    "characters": [
+      "Hanuman",
+      "Sita"
+    ],
+    "summary": "Hanuman leaps across the ocean to find Sita in Lanka and delivers Rama’s message.",
+    "moral": "Faith and determination can achieve the impossible.",
+    "quote": "Victory to Lord Rama!",
+    "location": "Lanka",
+    "image": "sundhara.jpg"
+  },
+  {
+    "title": "Building the Bridge",
+    "chapter": "Yuddha Kanda",
+    "characters": [
+      "Rama",
+      "Vanaras",
+      "Nala",
+      "Hanuman"
+    ],
+    "summary": "The Vanara army builds a bridge across the ocean to reach Lanka and rescue Sita.",
+    "moral": "Unity and teamwork can overcome great obstacles.",
+    "quote": "Lay down the stones in the name of Rama!",
+    "location": "Setu Bandhan",
+    "image": "bridge_to_lanka.jpg"
+  },
+  {
+    "title": "The Fall of Ravana",
+    "chapter": "Yuddha Kanda",
+    "characters": [
+      "Rama",
+      "Ravana",
+      "Vibhishana"
+    ],
+    "summary": "After a fierce battle, Rama defeats Ravana and rescues Sita.",
+    "moral": "Evil, no matter how powerful, will fall before righteousness.",
+    "quote": "Dharma has prevailed.",
+    "location": "Lanka",
+    "image": "ravana_defeated.jpg"
+  },
+  {
+    "title": "Rama’s Coronation",
+    "chapter": "Uttara Kanda",
+    "characters": [
+      "Rama",
+      "Sita",
+      "Lakshmana",
+      "Bharata"
+    ],
+    "summary": "Rama returns to Ayodhya and is crowned king. Peace and prosperity prevail.",
+    "moral": "Goodness, patience, and sacrifice lead to ultimate victory.",
+    "quote": "Let dharma guide our kingdom.",
+    "location": "Ayodhya",
+    "image": "rama_coronation.jpg"
+  }
+]
