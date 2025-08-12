@@ -1,147 +1,491 @@
 [
   {
-    "title": "The Birth of Rama",
-    "chapter": "Bala Kanda",
-    "characters": [
-      "Dasharatha",
-      "Kaushalya",
-      "Vishwamitra"
-    ],
-    "summary": "King Dasharatha performs a yajna to be blessed with children. Rama is born along with his three brothers.",
-    "moral": "Faith and righteousness bring divine blessings.",
-    "quote": "Let the sacred yajna bring forth sons to the king.",
-    "location": "Ayodhya",
-    "image": "birth_rama.jpg"
+  "title": {
+    "te": "రాముని దివ్య జననం",
+    "hi": "राम का दिव्य जन्म",
+    "en": "The Divine Birth of Rama"
   },
-  {
-    "title": "Rama Breaks Shiva's Bow",
-    "chapter": "Bala Kanda",
-    "characters": [
-      "Rama",
-      "Sita",
-      "Janaka",
-      "Parashurama"
-    ],
-    "summary": "Rama lifts and breaks the mighty bow of Shiva during Sita's swayamvar, winning her hand in marriage.",
-    "moral": "True strength lies in humility.",
-    "quote": "He who strings this bow shall marry Sita.",
-    "location": "Mithila",
-    "image": "sita_swayamvar.jpg"
+  "chapter": {
+    "te": "బాలకాండ",
+    "hi": "बाल कांड",
+    "en": "Bala Kanda"
   },
-  {
-    "title": "Rama’s Exile",
-    "chapter": "Ayodhya Kanda",
-    "characters": [
-      "Rama",
-      "Kaikeyi",
-      "Dasharatha",
-      "Sita",
-      "Lakshmana"
-    ],
-    "summary": "Due to Kaikeyi’s demand, Rama is exiled for 14 years. He leaves Ayodhya with Sita and Lakshmana.",
-    "moral": "Respect for promises is higher than personal comfort.",
-    "quote": "I gladly accept this exile to honor my father’s word.",
-    "location": "Ayodhya",
-    "image": "rama_exile.jpg"
+  "characters": {
+    "te": ["రాజు దశరథుడు", "రాముడు", "కౌశల్య"],
+    "hi": ["राजा दशरथ", "राम", "कौशल्या"],
+    "en": ["King Dasharatha", "Rama", "Kaushalya"]
   },
-  {
-    "title": "Shurpanakha's Revenge",
-    "chapter": "Aranya Kanda",
-    "characters": [
-      "Shurpanakha",
-      "Rama",
-      "Lakshmana",
-      "Ravana"
-    ],
-    "summary": "Shurpanakha is humiliated by Rama and Lakshmana. She provokes Ravana to abduct Sita.",
-    "moral": "Actions driven by ego can cause destruction.",
-    "quote": "I shall seek vengeance for this insult!",
-    "location": "Panchavati",
-    "image": "golden_deer.jpg"
+  "location": {
+    "te": "అయోధ్య",
+    "hi": "अयोध्या",
+    "en": "Ayodhya"
   },
-  {
-    "title": "Sita’s Abduction",
-    "chapter": "Aranya Kanda",
-    "characters": [
-      "Sita",
-      "Ravana",
-      "Jatayu"
-    ],
-    "summary": "Ravana kidnaps Sita while Rama and Lakshmana are away. Jatayu tries to save her but fails.",
-    "moral": "Courage can shine even in defeat.",
-    "quote": "Oh Rama! Save me!",
-    "location": "Dandakaranya",
-    "image": "sita_abducted.jpg"
+  "quote": {
+    "te": "పవిత్ర యజ్ఞం రాజుకు కుమారులను ప్రసాదించగలదు.",
+    "hi": "पवित्र यज्ञ राजा को पुत्र प्रदान करे।",
+    "en": "Let the sacred yajna bring forth sons to the king."
   },
-  {
-    "title": "Hanuman Meets Rama",
-    "chapter": "Kishkindha Kanda",
-    "characters": [
-      "Hanuman",
-      "Rama",
-      "Sugriva"
-    ],
-    "summary": "Hanuman becomes a devotee of Rama and offers to help in the search for Sita.",
-    "moral": "Devotion transcends all boundaries.",
-    "quote": "I am at your service, my lord.",
-    "location": "Rishyamukha Mountain",
-    "image": "rama_meets_hanuman.jpg"
+  "summary": {
+    "te": "రాజు దశరథుడు సంతానం కోసం పవిత్ర యజ్ఞం నిర్వహిస్తాడు, దీని ఫలితంగా రాముడు మరియు అతని సోదరులు జన్మిస్తారు.",
+    "hi": "राजा दशरथ संतान प्राप्ति के लिए एक पवित्र यज्ञ करते हैं, जिससे राम और उनके भाइयों का दिव्य जन्म होता है।",
+    "en": "King Dasharatha performs a sacred yajna to have children, resulting in the divine birth of Rama and his brothers."
   },
-  {
-    "title": "Hanuman’s Leap to Lanka",
-    "chapter": "Sundara Kanda",
-    "characters": [
-      "Hanuman",
-      "Sita"
-    ],
-    "summary": "Hanuman leaps across the ocean to find Sita in Lanka and delivers Rama’s message.",
-    "moral": "Faith and determination can achieve the impossible.",
-    "quote": "Victory to Lord Rama!",
-    "location": "Lanka",
-    "image": "sundhara.jpg"
+  "moral": {
+    "te": "ఆస్థికత మరియు భక్తితో దైవిక ఆశీర్వాదాలు లభిస్తాయి.",
+    "hi": "आस्था और भक्ति से दिव्य आशीर्वाद प्राप्त होते हैं।",
+    "en": "Faith and devotion lead to divine blessings."
   },
-  {
-    "title": "Building the Bridge",
-    "chapter": "Yuddha Kanda",
-    "characters": [
-      "Rama",
-      "Vanaras",
-      "Nala",
-      "Hanuman"
-    ],
-    "summary": "The Vanara army builds a bridge across the ocean to reach Lanka and rescue Sita.",
-    "moral": "Unity and teamwork can overcome great obstacles.",
-    "quote": "Lay down the stones in the name of Rama!",
-    "location": "Setu Bandhan",
-    "image": "bridge_to_lanka.jpg"
+  "long_description": {
+    "te": "ప్రాచీన అయోధ్య నగరంలో రాజు దశరథుడు తెలివిగా పాలించాడు. రాజ్యంలో సంపద ఉన్నా, సంతానం లేకపోవడం వల్ల అతను బాధపడేవాడు. దైవ సహాయాన్ని కోరుతూ, అతను పుత్రకామేశ్టి యజ్ఞం నిర్వహించాడు. దేవతలు ఆశీర్వదించగా, అతని భార్యలు రాముడు, లక్ష్మణుడు, భరతుడు మరియు శత్రుఘ్నుడిని ప్రసవించారు. విష్ణువు అవతారంగా రాముడు కౌశల్యకి జన్మించాడు, ఇది రాజ్యంలో ఆనందాన్ని తెచ్చింది.",
+    "hi": "प्राचीन अयोध्या नगरी में राजा दशरथ बुद्धिमत्ता से राज्य करते थे। समृद्धि के बावजूद, वह संतान न होने के कारण दुखी थे। उन्होंने संतान प्राप्ति हेतु पुत्रकामेष्टि यज्ञ किया। देवताओं ने आशीर्वाद दिया और जल्द ही उनकी पत्नियों ने राम, लक्ष्मण, भरत और शत्रुघ्न को जन्म दिया। विष्णु के अवतार राम कौशल्या से उत्पन्न हुए, जिससे पूरी अयोध्या हर्षित हुई।",
+    "en": "In the ancient city of Ayodhya, King Dasharatha ruled with great wisdom. Despite his prosperous kingdom, he was unhappy due to the absence of a child. To seek divine intervention, he performed the Putrakameshti Yajna. The gods blessed him, and soon his wives gave birth to Rama, Lakshmana, Bharata, and Shatrughna. Rama, the incarnation of Vishnu, was born to Kaushalya, bringing joy to the entire kingdom."
   },
-  {
-    "title": "The Fall of Ravana",
-    "chapter": "Yuddha Kanda",
-    "characters": [
-      "Rama",
-      "Ravana",
-      "Vibhishana"
-    ],
-    "summary": "After a fierce battle, Rama defeats Ravana and rescues Sita.",
-    "moral": "Evil, no matter how powerful, will fall before righteousness.",
-    "quote": "Dharma has prevailed.",
-    "location": "Lanka",
-    "image": "ravana_defeated.jpg"
+  "image": "birth_rama.jpg"
+
+},
+{
+  "title": {
+    "te": "రాముడు శివ ధనుస్సును విరచాడు",
+    "hi": "राम ने तोड़ा शिव का धनुष",
+    "en": "Rama Breaks Shiva's Bow"
   },
-  {
-    "title": "Rama’s Coronation",
-    "chapter": "Uttara Kanda",
-    "characters": [
-      "Rama",
-      "Sita",
-      "Lakshmana",
-      "Bharata"
-    ],
-    "summary": "Rama returns to Ayodhya and is crowned king. Peace and prosperity prevail.",
-    "moral": "Goodness, patience, and sacrifice lead to ultimate victory.",
-    "quote": "Let dharma guide our kingdom.",
-    "location": "Ayodhya",
-    "image": "rama_coronation.jpg"
-  }
+  "chapter": {
+    "te": "బాలకాండ",
+    "hi": "बाल कांड",
+    "en": "Bala Kanda"
+  },
+  "characters": {
+    "te": ["రాముడు", "సీత", "జనకుడు", "పరశురాముడు"],
+    "hi": ["राम", "सीता", "जनक", "परशुराम"],
+    "en": ["Rama", "Sita", "Janaka", "Parashurama"]
+  },
+  "location": {
+    "te": "మిథిలా",
+    "hi": "मिथिला",
+    "en": "Mithila"
+  },
+  "quote": {
+    "te": "ఈ ధనుస్సును ఎవరు కట్టగలరో వారు సీతను పెళ్ళిచేసుకుంటారు.",
+    "hi": "जो इस धनुष को चढ़ाएगा, वही सीता से विवाह करेगा।",
+    "en": "He who strings this bow shall marry Sita."
+  },
+  "summary": {
+    "te": "సీత స్వయంవరంలో రాముడు శివ ధనుస్సును ఎత్తి విరచాడు, దీని వల్ల అతను సీతను వివాహం చేసుకున్నాడు.",
+    "hi": "सीता स्वयंवर में राम ने शिव का धनुष उठाकर तोड़ दिया, जिससे उन्होंने सीता का हाथ जीता।",
+    "en": "Rama lifts and breaks the mighty bow of Shiva during Sita's swayamvar, winning her hand in marriage."
+  },
+  "moral": {
+    "te": "నిజమైన బలమునకు వినయమే లక్షణం.",
+    "hi": "सच्ची शक्ति विनम्रता में होती है।",
+    "en": "True strength lies in humility."
+  },
+  "long_description": {
+    "te": "మిథిలా నగరంలో సీతకు స్వయంవరం నిర్వహించబడింది. రాజా జనకుడు శివుని ధనుస్సును ఎత్తగలవాడు మాత్రమే ఆమెను పెళ్లి చేసుకోవచ్చని ప్రమాణం చేశాడు. అనేక రాజులు విఫలమయ్యారు. విశ్వామిత్రుని సాహచర్యంలో రాముడు వచ్చి ధనుస్సును సులభంగా ఎత్తి విరచాడు. సీత ఆనందంతో రాముడిని వరించింది. పరశురాముడు రావడం, రాముని దైవికతను గుర్తించి శాంతంగా వెళ్లిపోయే సంఘటన ఈ కథలో చోటుచేసుకుంది.",
+    "hi": "मिथिला में सीता का स्वयंवर आयोजित किया गया। राजा जनक ने घोषणा की कि जो भी शिव का धनुष उठा और चढ़ा सकेगा, वही सीता से विवाह करेगा। कई राजा असफल हुए। राम, लक्ष्मण और विश्वामित्र के साथ आए और राम ने धनुष को आसानी से उठाकर तोड़ दिया। सीता ने उन्हें वरमाला पहनाई। परशुराम आए, पर राम की दिव्यता समझकर शांत हो गए।",
+    "en": "In Mithila, King Janaka hosted Sita's swayamvar. Only one who could lift and string Shiva’s bow would marry her. Many failed. Rama, guided by Vishwamitra, lifted and broke the bow with ease. Sita chose him as her husband. Parashurama appeared in anger, but recognized Rama’s divinity and departed peacefully."
+  },
+  "image": "sita_swayamvar.jpg"
+},
+{
+  "title": {
+    "te": "రాముని వనవాసం",
+    "hi": "राम का वनवास",
+    "en": "Rama’s Exile"
+  },
+  "chapter": {
+    "te": "అయోధ్య కాండ",
+    "hi": "अयोध्या कांड",
+    "en": "Ayodhya Kanda"
+  },
+  "characters": {
+    "te": ["రాముడు", "కైకేయి", "దశరథుడు", "సీత", "లక్ష్మణుడు"],
+    "hi": ["राम", "कैकेयी", "दशरथ", "सीता", "लक्ष्मण"],
+    "en": ["Rama", "Kaikeyi", "Dasharatha", "Sita", "Lakshmana"]
+  },
+  "location": {
+    "te": "అయోధ్య",
+    "hi": "अयोध्या",
+    "en": "Ayodhya"
+  },
+  "quote": {
+    "te": "నా తండ్రి మాటను గౌరవించేందుకు ఈ వనవాసాన్ని సంతోషంగా స్వీకరిస్తున్నాను.",
+    "hi": "मैं अपने पिता के वचन का सम्मान करने के लिए इस वनवास को खुशी से स्वीकार करता हूँ।",
+    "en": "I gladly accept this exile to honor my father’s word."
+  },
+  "summary": {
+    "te": "కైకేయి కోరిక మేరకు రాముడు 14 సంవత్సరాలు వనవాసానికి వెళ్తాడు. సీత మరియు లక్ష్మణుడు అతనితో వెళ్తారు.",
+    "hi": "कैकेयी की मांग पर राम 14 वर्षों के लिए वनवास जाते हैं। सीता और लक्ष्मण उनके साथ जाते हैं।",
+    "en": "Due to Kaikeyi’s demand, Rama is exiled for 14 years. He leaves Ayodhya with Sita and Lakshmana."
+  },
+  "moral": {
+    "te": "ప్రతిజ్ఞ గౌరవం వ్యక్తిగత సౌలభ్యానికి మించినది.",
+    "hi": "वचन का सम्मान व्यक्तिगत सुख से बड़ा होता है।",
+    "en": "Respect for promises is higher than personal comfort."
+  },
+  "long_description": {
+    "te": "అయోధ్య కాండ రాముని జీవితంలోని భావోద్వేగాలు మరియు నైతిక సంక్లిష్టతలపై దృష్టి పెడుతుంది. దశరథుడు రాముడిని రాజుగా ప్రకటించబోతున్న సమయంలో, కైకేయి తన కుమారుడు భరతుడిని రాజుగా చేయాలని మరియు రాముని 14 సంవత్సరాల వనవాసానికి పంపాలని కోరుతుంది. రాముడు తన తండ్రి మాటను గౌరవిస్తూ, నిశ్శబ్దంగా అంగీకరిస్తాడు. సీత మరియు లక్ష్మణుడు అతనితో వనవాసానికి వెళ్తారు. దశరథుడు దుఃఖంతో మరణిస్తాడు. అయోధ్య ప్రజలు రాముని వదిలి పోవడాన్ని విషాదంగా స్వీకరించారు. భరతుడు తల్లి చర్యలకు వ్యతిరేకంగా రాముని వద్దకు వెళ్ళి తిరిగి రావాలని వేడుకుంటాడు. కానీ రాముడు తన ధర్మానికి కట్టుబడి ఉండటాన్ని తెలియజేస్తాడు. చివరకు భరతుడు రాముని పాదుకలను సింహాసనంపై ఉంచి తాత్కాలిక పాలకుడిగా ఉంటాడు.",
+    "hi": "अयोध्या कांड राम के जीवन की भावनात्मक और नैतिक दुविधाओं को दर्शाता है। जब दशरथ राम को राजा बनाने की तैयारी करते हैं, तब कैकेयी दो वरदान मांगती हैं — राम को वनवास और भरत को राज्य। राम अपने पिता के वचन का पालन करते हुए खुशी से वनवास स्वीकार करते हैं। सीता और लक्ष्मण उनके साथ जाते हैं। राम के जाने के बाद दशरथ दुःख से मर जाते हैं। अयोध्या की जनता शोक में डूब जाती है। भरत, जब यह जानता है, तो अपनी माँ से नाराज होता है और राम से राज्य संभालने का आग्रह करता है। लेकिन राम अपने धर्म पर अडिग रहते हैं। भरत राम की खड़ाऊँ को सिंहासन पर रखकर राज्य की देखरेख करते हैं।",
+    "en": "Ayodhya Kanda focuses on the emotional and moral complexities in Rama’s life. As Dasharatha prepares to crown Rama, Kaikeyi demands two boons — Rama’s exile and Bharata’s coronation. Rama, honoring his father’s word, accepts the exile peacefully. Sita and Lakshmana join him. Dasharatha dies in grief after Rama departs. The people of Ayodhya mourn. Bharata, upon hearing, confronts his mother and pleads with Rama to return. Rama stands firm in his dharma. Bharata rules as a caretaker, placing Rama’s sandals on the throne."
+  },
+  "image": "rama_exile.jpg"
+},
+{
+  "title": {
+    "te": "శూర్పణఖ ప్రతీకారం",
+    "hi": "शूर्पणखा का प्रतिशोध",
+    "en": "Shurpanakha's Revenge"
+  },
+  "chapter": {
+    "te": "అరణ్య కాండ",
+    "hi": "अरण्य कांड",
+    "en": "Aranya Kanda"
+  },
+  "characters": [
+    {
+      "te": "శూర్పణఖ",
+      "hi": "शूर्पणखा",
+      "en": "Shurpanakha"
+    },
+    {
+      "te": "రాముడు",
+      "hi": "राम",
+      "en": "Rama"
+    },
+    {
+      "te": "లక్ష్మణుడు",
+      "hi": "लक्ष्मण",
+      "en": "Lakshmana"
+    },
+    {
+      "te": "రవణుడు",
+      "hi": "रावण",
+      "en": "Ravana"
+    }
+  ],
+  "location": {
+    "te": "పంచవటి",
+    "hi": "पंचवटी",
+    "en": "Panchavati"
+  },
+  "quote": {
+    "te": "ఈ అవమానానికి నేను ప్రతీకారం తీర్చుకుంటాను!",
+    "hi": "इस अपमान का मैं बदला लूंगी!",
+    "en": "I shall seek vengeance for this insult!"
+  },
+  "summary": {
+    "te": "శూర్పణఖ రాముడు మరియు లక్ష్మణుడిచేత అవమానించబడుతుంది. ఆమె సీతను అపహరించమని రవణుడిని ప్రేరేపిస్తుంది.",
+    "hi": "शूर्पणखा को राम और लक्ष्मण द्वारा अपमानित किया जाता है। वह सीता का हरण करने के लिए रावण को उकसाती है।",
+    "en": "Shurpanakha is humiliated by Rama and Lakshmana. She provokes Ravana to abduct Sita."
+  },
+  "moral": {
+    "te": "అహంకారంతో చేసిన చర్యలు నాశనానికి దారితీయవచ్చు.",
+    "hi": "अहंकार से प्रेरित कर्म विनाश का कारण बनते हैं।",
+    "en": "Actions driven by ego can cause destruction."
+  },
+  "long_description": {
+    "te": "అరణ్యకాండ రాముడు, సీత మరియు లక్ష్మణుడి అడవి జీవితాన్ని చిత్రిస్తుంది. వారు పంచవటిలో శాంతియుతంగా జీవిస్తున్న సమయంలో, శూర్పణఖ అనే రాక్షసి రాముని అందంతో ఆకర్షితురాలవుతుంది. ఆమె రాముని మన్మథించి పెళ్లి చేసుకోవాలని ప్రయత్నిస్తుంది. కానీ రాముడు ఆమెను మృదువుగా తిరస్కరిస్తూ లక్ష్మణుడివద్దకు పంపుతాడు. లక్ష్మణుడూ ఆమెను హాస్యంగా చూస్తాడు. కోపంతో శూర్పణఖ సీతపై దాడి చేస్తుంది. లక్ష్మణుడు ఆమె ముక్కును తొలిచేస్తాడు. అవమానితురాలైన ఆమె తన అన్న రావణుడిని దగ్గరికి వెళ్లి సీతను తీసుకోవాలని ప్రేరేపిస్తుంది. ఇది రామాయణంలోని కీలక మలుపు. అరణ్య జీవితం శాంతి నుండి యుద్ధ దిశగా మారుతుంది.",
+    "hi": "अरण्य कांड राम, सीता और लक्ष्मण के वनवास जीवन को दर्शाता है। पंचवटी में शांतिपूर्वक जीवन व्यतीत करते समय, राक्षसी शूर्पणखा राम के सौंदर्य पर मोहित हो जाती है। वह राम से विवाह का प्रस्ताव रखती है, लेकिन राम उसे मना कर लक्ष्मण के पास भेजते हैं। लक्ष्मण भी उसका उपहास करते हैं। क्रोधित होकर शूर्पणखा सीता पर हमला करती है, और लक्ष्मण उसकी नाक काट देते हैं। अपमानित शूर्पणखा लंका जाकर अपने भाई रावण को सीता के सौंदर्य का वर्णन कर उसे अपहरण करने के लिए उकसाती है। यह घटना रामायण में एक निर्णायक मोड़ बन जाती है, जो शांति से अशांति की ओर गमन दर्शाती है।",
+    "en": "Aranya Kanda portrays the forest life of Rama, Sita, and Lakshmana. As they live peacefully in Panchavati, a demoness named Shurpanakha is captivated by Rama’s charm. She tries to seduce him, but Rama gently declines and directs her to Lakshmana, who also mocks her. In a fit of rage, she attacks Sita, and Lakshmana cuts off her nose to protect her. Humiliated, she runs to her brother Ravana in Lanka, seeking revenge. She describes Sita's beauty and urges Ravana to take her. This moment becomes a turning point in the Ramayana. The peaceful forest life transforms into the beginning of greater conflict. Aranya Kanda captures the transformation from calm to chaos and sets the stage for the battle between dharma and adharma."
+  },
+  "image": "golden_deer.jpg"
+},
+{
+  "title": {
+    "te": "సీత హరణం",
+    "hi": "सीता हरण",
+    "en": "Sita’s Abduction"
+  },
+  "chapter": {
+    "te": "అరణ్య కాండ",
+    "hi": "अरण्य कांड",
+    "en": "Aranya Kanda"
+  },
+  "characters": [
+    {
+      "te": "సీత",
+      "hi": "सीता",
+      "en": "Sita"
+    },
+    {
+      "te": "రావణుడు",
+      "hi": "रावण",
+      "en": "Ravana"
+    },
+    {
+      "te": "జటాయువు",
+      "hi": "जटायू",
+      "en": "Jatayu"
+    }
+  ],
+  "location": {
+    "te": "దండకారణ్యం",
+    "hi": "दंडकारण्य",
+    "en": "Dandakaranya"
+  },
+  "quote": {
+    "te": "ఓ రామా! నన్ను కాపాడు!",
+    "hi": "हे राम! मुझे बचाओ!",
+    "en": "Oh Rama! Save me!"
+  },
+  "summary": {
+    "te": "రాముడు మరియు లక్ష్మణుడు లేని సమయంలో రావణుడు సీతను అపహరిస్తాడు. జటాయువు ఆమెను రక్షించేందుకు ప్రయత్నించి విఫలమవుతుంది.",
+    "hi": "जब राम और लक्ष्मण अनुपस्थित होते हैं, तब रावण सीता का अपहरण करता है। जटायू उसे बचाने की कोशिश करता है लेकिन असफल होता है।",
+    "en": "Ravana kidnaps Sita while Rama and Lakshmana are away. Jatayu tries to save her but fails."
+  },
+  "moral": {
+    "te": "పరాజయంలోనూ ధైర్యం మెరవగలదు.",
+    "hi": "पराजय में भी साहस चमक सकता है।",
+    "en": "Courage can shine even in defeat."
+  },
+  "long_description": {
+    "te": "ఒక కపటతంత్రంగా, రావణుడు మాయమృగంగా మారిన మారీచుడిని పంపించి సీతను ఒంటరిగా చేయడానికి ప్రయత్నిస్తాడు. ఆ మృగాన్ని చూసి మోహించిన సీత, రాముడు దాన్ని పట్టుకోవాలని అడుగుతుంది. రాముడు దాన్ని వెంబడించి చంపుతాడు, కానీ మారీచుడు రాముడి స్వరంలో అరిచి లక్ష్మణుడు వెళ్లిపోవడానికి కారణమవుతాడు. రావణుడు మునిగా రూపాంతరం చెందించి వస్తాడు, సీతను అపహరిస్తాడు. జటాయువు ఆమెను రక్షించేందుకు ప్రయత్నిస్తాడు కానీ గాయపడి పడిపోతాడు. ఇది రామాయణంలోని అత్యంత భావోద్వేగభరిత ఘట్టాలలో ఒకటి, వేదన మరియు మోసం చూపిస్తుంది.",
+    "hi": "एक चालाक योजना के तहत, रावण मारीच को एक स्वर्ण मृग के रूप में भेजता है ताकि राम को सीता से दूर ले जाया जा सके। उसकी सुंदरता से मोहित होकर, सीता राम से उसे पकड़ने को कहती है। राम उसे मारते हैं, और मारीच राम की आवाज़ में पुकारता है। सीता चिंतित होकर लक्ष्मण को भेजती है। रावण एक साधु का रूप धारण कर आता है और सीता का अपहरण करता है। जटायू उसे रोकने की कोशिश करता है लेकिन गंभीर रूप से घायल हो जाता है। यह प्रसंग रामायण का सबसे भावनात्मक और निर्णायक मोड़ है, जो राम के अभियान की शुरुआत करता है।",
+    "en": "In a cruel deception, Ravana sends the demon Maricha disguised as a golden deer to lure Rama away from Sita. Enchanted by its beauty, Sita insists Rama fetch it. When Rama chases the deer and kills it, Maricha cries in Rama’s voice, misleading Sita. Concerned, she sends Lakshmana to help Rama, even though he hesitates to leave her alone. Ravana, disguised as a sage, arrives and kidnaps her. As he flees in his chariot, the noble bird Jatayu tries to stop him but is mortally wounded. This heartbreaking episode marks one of the most emotional moments in the Ramayana, illustrating the pain of separation and the cruelty of deceit. It also initiates Rama’s mission to rescue Sita, bringing the story into its action phase."
+  },
+  "image": "sita_abducted.jpg"
+},
+{
+  "title": {
+    "te": "హనుమాన్ రామునిని కలుసుకున్నాడు",
+    "hi": "हनुमान राम से मिलते हैं",
+    "en": "Hanuman Meets Rama"
+   
+  },
+  "chapter": {
+    
+     "te": "కిష్కింద ఖాండ",
+    "hi": "किष्किंधा कांड",
+    "en": "Kishkindha Kanda"
+   
+  },
+  "characters": {
+    "te": ["హనుమాన్", "రాముడు", "సుగ్రీవుడు"],
+    "hi": ["हनुमान", "राम", "सुग्रीव"],
+    "en": ["Hanuman", "Rama", "Sugriva"]
+    
+  },
+  "location": {
+   
+    "te": "ఋశ్యమూక పర్వతం",
+     "hi": "ऋश्यमुख पर्वत",
+     "en": "Rishyamukha Mountain"
+  },
+  "quote": {
+
+   
+    "te": "నేను మీ సేవలో ఉన్నాను, ప్రభు.",
+     "hi": "मैं आपकी सेवा में हूँ, प्रभु।",
+      "en": "I am at your service, my lord."
+  },
+  "summary": {
+    
+     "te": "హనుమాన్ రాముడి భక్తుడిగా మారి, సీతను వెతకడంలో సహాయం చేయాలని ప్రతిపాదిస్తాడు.",
+    "hi": "हनुमान राम के भक्त बन जाते हैं और सीता की खोज में सहायता करने का प्रस्ताव देते हैं।",
+    "en": "Hanuman becomes a devotee of Rama and offers to help in the search for Sita."
+   
+  },
+  "moral": {
+   
+    "te": "భక్తి అన్నీ హద్దులను దాటి పోతుంది.",
+     "hi": "भक्ति सभी सीमाओं को पार कर जाती है।",
+    "en": "Devotion transcends all boundaries."
+  },
+  "long_description": {
+     "te": "కిష్కింద ఖాండ రాముడు మరియు హనుమాన్ మధ్య జరిగిన కలయికను సూచిస్తుంది, ఇది రామాయణంలో కీలక ఘట్టం. సీతను రావణుడు అపహరించిన తర్వాత, రాముడు మరియు లక్ష్మణుడు ఆమె కోసం వెతకడం ప్రారంభిస్తారు మరియు వానర రాజు సుగ్రీవుడు దాగి ఉన్న ఋశ్యమూక పర్వతాల వద్దకు చేరుకుంటారు. బ్రాహ్మణ వేషంలో హనుమాన్ వచ్చి రాముడిని కలుసుకుంటాడు. రాముని అసలు స్వరూపం తెలుసుకున్న హనుమాన్ భక్తితో భావోద్వేగానికి లోనై అతనికి శరణాగతుడవుతాడు. హనుమాన్ రాముడిని సుగ్రీవుడితో పరిచయం చేస్తాడు. సుగ్రీవుడు తన సోదరుడు వాలిని ఓడించి తన రాజ్యం తిరిగి పొందడంలో సహాయం చేస్తే, సీతను వెతకడంలో సహాయం చేస్తానని చెబుతాడు. రాముడు వాలిని సంహరిస్తాడు, సుగ్రీవుడు తిరిగి కిష్కిందా రాజుగా కీర్తించబడతాడు. వానరులు సీత కోసం అన్ని దిశలలో వెతకడం ప్రారంభిస్తారు. హనుమాన్ యొక్క భక్తి, తెలివితేటలు మరియు శక్తి ఈ కథలో మెరిసిపోతాయి. ఈ ఖాండ స్నేహం, మైత్రీ మరియు నిస్వార్థ సేవ యొక్క శక్తిని తెలియజేస్తుంది.",
+    "hi": "किष्किंधा कांड राम और हनुमान की मुलाकात को दर्शाता है, जो रामायण का एक महत्वपूर्ण क्षण है। सीता के अपहरण के बाद, राम और लक्ष्मण उनकी खोज शुरू करते हैं और ऋश्यमुख पर्वत के पास पहुँचते हैं, जहाँ वानर राजकुमार सुग्रीव छिपा होता है। ब्राह्मण का वेश धारण किए हनुमान उनसे मिलने आते हैं। राम की सच्ची पहचान जानकर हनुमान भक्ति से अभिभूत हो जाते हैं और समर्पण करते हैं। हनुमान राम को सुग्रीव से मिलवाते हैं, जो अपने भाई वाली से राज्य वापस पाने के बदले सीता की खोज में मदद करने के लिए सहमत होता है। राम वाली का वध करते हैं और सुग्रीव को किष्किंधा का राजा बना दिया जाता है। वानर चारों दिशाओं में सीता की खोज शुरू करते हैं। इस कांड में हनुमान की निष्ठा, बुद्धिमत्ता और शक्ति प्रदर्शित होती है। यह कांड मित्रता, गठबंधन और निःस्वार्थ सेवा की शक्ति को दर्शाता है।",
+    "en": "Kishkindha Kanda marks the meeting of Rama and Hanuman, a pivotal moment in the Ramayana. After Sita’s abduction, Rama and Lakshmana begin their search and arrive near the Rishyamukha Mountains, where the monkey prince Sugriva is in hiding. Hanuman, disguised as a Brahmin, approaches them. Upon realizing Rama’s true identity, Hanuman is overwhelmed with devotion and surrenders to him. Hanuman introduces Rama to Sugriva, who agrees to help in finding Sita in return for help in regaining his kingdom from his brother Vali. Rama slays Vali, and Sugriva is restored as king of Kishkindha. The Vanaras begin searching in all directions for Sita. Hanuman’s loyalty, intelligence, and strength shine through. This Kanda introduces the power of friendship, alliances, and unconditional service."
+    
+   
+  },
+  "image": "rama_meets_hanuman.jpg"
+},
+{
+  "title": {
+    "te": "హనుమంతుడు లంకకు జంప్ చేశాడు",
+    "hi": "हनुमान की लंका छलांग",
+    "en": "Hanuman’s Leap to Lanka"
+  },
+  "chapter": {
+    "te": "సుందర ఖాండ",
+    "hi": "सुंदर कांड",
+    "en": "Sundara Kanda"
+  },
+  "characters": {
+    "te": ["హనుమాన్", "సీత"],
+    "hi": ["हनुमान", "सीता"],
+    "en": ["Hanuman", "Sita"]
+  },
+  "location": {
+    "te": "లంకా",
+    "hi": "लंका",
+    "en": "Lanka"
+  },
+  "quote": {
+    "te": "జయ శ్రీరామ్!",
+    "hi": "जय श्रीराम!",
+    "en": "Victory to Lord Rama!"
+  },
+  "summary": {
+    "te": "హనుమంతుడు సముద్రాన్ని దాటి లంకలో సీతను కనుగొని రాముని సందేశాన్ని అందిస్తాడు.",
+    "hi": "हनुमान समुद्र पार करके लंका में सीता को ढूंढते हैं और राम का संदेश देते हैं।",
+    "en": "Hanuman leaps across the ocean to find Sita in Lanka and delivers Rama’s message."
+  },
+  "moral": {
+    "te": "నమ్మకం మరియు సంకల్పంతో అసాధ్యాన్ని సాధించవచ్చు.",
+    "hi": "विश्वास और संकल्प से असंभव को भी संभव किया जा सकता है।",
+    "en": "Faith and determination can achieve the impossible."
+  },
+  "long_description": {
+    "te": "సుందర ఖాండ రామాయణంలోని ప్రసిద్ధమైన భాగాలలో ఒకటి, ఇది హనుమంతుని వీరతను ప్రదర్శిస్తుంది. సీతమ్మను కనుగొనడమే లక్ష్యంగా, హనుమంతుడు సముద్రాన్ని దాటి లంకకు వెళ్తాడు. మార్గమధ్యంలో మైనాక పర్వతం, సురస అనే రాక్షసి మరియు సింహిక అనే రాక్షసిని ఎదుర్కొని తన తెలివి మరియు శక్తితో వాటిని జయిస్తాడు. లంకలో హనుమంతుడు సీతను అశోకవనంలో కనుగొంటాడు. ఆమె బాధలో ఉన్నా, రాముడిపై తన భక్తిని కోల్పోలేదు. హనుమంతుడు రాముని ఉంగరాన్ని ఆమెకు ఇస్తాడు, ఇది ఆశకు సంకేతం. వెనక్కి వెళ్లే ముందు, హనుమంతుడు పట్టుబడి తన వాలుకు నిప్పు పెట్టిన తర్వాత లంకను కాల్చి విధ్వంసం సృష్టిస్తాడు. తిరిగి వచ్చి సీత యొక్క స్థితిగతుల గురించి ముఖ్యమైన సమాచారాన్ని అందిస్తాడు. ఈ ఖాండ ధైర్యం, భక్తి మరియు సంకల్ప విజయాన్ని సూచిస్తుంది.",
+    "hi": "सुंदर कांड रामायण का एक प्रसिद्ध भाग है, जो हनुमान की वीरता को दर्शाता है। सीता को ढूंढने का कार्य लेकर, हनुमान समुद्र पार कर लंका जाते हैं। रास्ते में वे मैनाक पर्वत, सुरसा राक्षसी और सिम्हिका का सामना करते हैं और अपनी बुद्धि और शक्ति से उन्हें हराते हैं। लंका में वे अशोक वाटिका में दुखी लेकिन राम के प्रति समर्पित सीता को पाते हैं। हनुमान उन्हें राम की अंगूठी देते हैं, जो आशा का प्रतीक होती है। लौटने से पहले, हनुमान पकड़े जाते हैं और उनकी पूंछ में आग लगा दी जाती है, जिससे वे लंका के हिस्से को जला देते हैं। वापसी पर वे सीता की स्थिति की महत्वपूर्ण जानकारी लेकर आते हैं। सुंदर कांड साहस, भक्ति और संकल्प की जीत को दर्शाता है।",
+    "en": "Sundara Kanda is one of the most celebrated parts of the Ramayana, highlighting the heroism of Hanuman. Assigned with the task of locating Sita, Hanuman takes a giant leap across the ocean to reach Lanka. Along the way, he faces obstacles like the mountain Mainaka, demoness Surasa, and the sea monster Simhika, overcoming them with wit and power. In Lanka, he locates Sita in the Ashoka Vatika, sorrowful yet firm in her devotion to Rama. He gives her Rama’s ring, a sign of hope. Before returning, Hanuman creates chaos in Lanka, burning parts of the city after being captured and having his tail set on fire. His return brings critical information about Sita’s location and condition. Sundara Kanda symbolizes courage, devotion, and the triumph of willpower."
+  },
+  "image": "sundhara.jpg"
+},
+{
+  "title": {
+    "te": "సేతుబంధన నిర్మాణం",
+    "hi": "सेतुबंध का निर्माण",
+    "en": "Building the Bridge"
+  },
+  "chapter": {
+    "te": "యుద్ధ ఖాండ",
+    "hi": "युद्ध कांड",
+    "en": "Yuddha Kanda"
+  },
+  "characters": {
+    "te": ["రాముడు", "వానరులు", "నల", "హనుమాన్"],
+    "hi": ["राम", "वानर", "नल", "हनुमान"],
+    "en": ["Rama", "Vanaras", "Nala", "Hanuman"]
+  },
+  "location": {
+    "te": "సేతుబంధనం",
+    "hi": "सेतुबंध",
+    "en": "Setu Bandhan"
+  },
+  "quote": {
+    "te": "రాముని నామంతో రాళ్లు వేయండి!",
+    "hi": "राम के नाम से पत्थर रखो!",
+    "en": "Lay down the stones in the name of Rama!"
+  },
+  "summary": {
+    "te": "సీతను రక్షించేందుకు లంక చేరేందుకు వానర సేన సముద్రం మీదుగా వంతెన నిర్మిస్తుంది.",
+    "hi": "सीता को बचाने के लिए लंका पहुँचने हेतु वानर सेना समुद्र पर पुल बनाती है।",
+    "en": "The Vanara army builds a bridge across the ocean to reach Lanka and rescue Sita."
+  },
+  "moral": {
+    "te": "ఐక్యత మరియు జట్టు పని ద్వారా అడ్డంకులను దాటవచ్చు.",
+    "hi": "एकता और टीमवर्क से बड़ी बाधाओं को पार किया जा सकता है।",
+    "en": "Unity and teamwork can overcome great obstacles."
+  },
+  "long_description": {
+    "te": "యుద్ధ ఖాండ రాముడు మరియు అతని సేన సముద్ర తీరానికి చేరడంతో ప్రారంభమవుతుంది. లంకకు చేరుకోవాలంటే సముద్రాన్ని దాటాల్సి ఉంటుంది. రాముడు సముద్ర దేవుని ప్రార్థిస్తాడు కానీ ప్రతిస్పందన రాకపోతే తన బాణంతో కోపంగా స్పందిస్తాడు. ఆ సమయంలో సముద్ర దేవుడు ప్రత్యక్షమై, విశ్వకర్మ పుత్రుడు అయిన నల వంతెన నిర్మించగలడని సూచిస్తాడు. నల నేతృత్వంలో వానరులు రాముని నామంతో రాళ్లను సముద్రంలో వేస్తారు, ఇవి అద్భుతంగా తేలుతాయి. కొన్ని రోజుల్లో, వారు గొప్ప సేతుబంధాన్ని నిర్మిస్తారు. ఇది ఐక్యత, విశ్వాసం మరియు భక్తి యొక్క శక్తిని సూచిస్తుంది. సేన వంతెనపై లంక వైపు పయనిస్తుంది. ఈ ఘట్టం లో మంచి మరియు చెడు మధ్య యుద్ధానికి మైదానం సిద్ధమవుతుంది.",
+    "hi": "युद्ध कांड राम और उनकी सेना के समुद्र तट पर पहुँचने से शुरू होता है। लंका पहुँचने के लिए उन्हें समुद्र पार करना होता है। राम समुद्र देवता से प्रार्थना करते हैं, लेकिन उत्तर न मिलने पर वे क्रोधित होकर धनुष उठाते हैं। तब समुद्र देवता प्रकट होते हैं और सुझाव देते हैं कि नल, जो विश्वकर्मा के पुत्र हैं, पुल का निर्माण कर सकते हैं। नल के मार्गदर्शन में वानर राम के नाम से पत्थर समुद्र में डालते हैं, जो चमत्कारिक रूप से तैरते हैं। कई दिनों में वे महान सेतुबंध का निर्माण करते हैं। यह एकता, विश्वास और भक्ति की शक्ति का प्रतीक है। सेना पुल पार करके लंका की ओर प्रस्थान करती है। यह अध्याय अच्छे और बुरे के बीच अंतिम युद्ध के लिए मंच तैयार करता है।",
+    "en": "Yuddha Kanda begins with Rama and his army reaching the ocean’s edge. To cross to Lanka, they must build a bridge. When Rama prays to the Ocean God and receives no answer, he uses his bow in anger. The Ocean God then appears and suggests that Nala, the son of Vishwakarma, can build the bridge. The Vanaras, under Nala’s guidance, begin throwing rocks inscribed with Rama’s name, which miraculously float. Over several days, they construct the mighty Setu Bandhan. The scene symbolizes unity, faith, and the power of devotion. As they march across, the stage is set for the ultimate battle between good and evil. This part of the Kanda teaches teamwork, engineering skills, and the ability to overcome the impossible through belief and cooperation."
+  },
+  "image": "bridge_to_lanka.jpg"
+},
+{
+  "title": {
+    "te": "రవణుని పతనం",
+    "hi": "रावण का पतन",
+    "en": "The Fall of Ravana"
+  },
+  "chapter": {
+    "te": "యుద్ధ ఖాండ",
+    "hi": "युद्ध कांड",
+    "en": "Yuddha Kanda"
+  },
+  "characters": {
+    "te": ["రాముడు", "రవణుడు", "విభీషణుడు"],
+    "hi": ["राम", "रावण", "विभीषण"],
+    "en": ["Rama", "Ravana", "Vibhishana"]
+  },
+  "location": {
+    "te": "లంకా",
+    "hi": "लंका",
+    "en": "Lanka"
+  },
+  "quote": {
+    "te": "ధర్మం విజయం సాధించింది.",
+    "hi": "धर्म की विजय हुई।",
+    "en": "Dharma has prevailed."
+  },
+  "summary": {
+    "te": "ఘోరమైన యుద్ధం తరువాత రాముడు రావణుడిని సంహరిస్తాడు మరియు సీతను రక్షిస్తాడు.",
+    "hi": "भीषण युद्ध के बाद राम रावण को पराजित करते हैं और सीता को बचाते हैं।",
+    "en": "After a fierce battle, Rama defeats Ravana and rescues Sita."
+  },
+  "moral": {
+    "te": "ఎంత శక్తివంతమైనదైనా చెడు ధర్మానికి ఎదురుగా పడిపోతుంది.",
+    "hi": "चाहे बुराई कितनी भी शक्तिशाली हो, धर्म के सामने पराजित होती है।",
+    "en": "Evil, no matter how powerful, will fall before righteousness."
+  },
+  "long_description": {
+    "te": "లంకకు వంతెన దాటి రాముడి సేన రావణుని సేనతో ఘోరమైన యుద్ధంలో పాల్గొంటుంది. ఈ యుద్ధంలో కుంభకర్ణుడు, ఇంద్రజిత్, చివరికి రావణుడితో కూడిన అనేక పోరాటాలు జరుగుతాయి. రాముడు ధర్మాన్ని అనుసరించి యుద్ధం చేస్తాడు, కానీ రావణుడు తన అహంకారంతో నడిచిపోతాడు. రావణుని సోదరుడు విభీషణుడు రాముని వైపు చేరి విలువైన సలహాలు ఇస్తాడు. చివరకు రాముడు దివ్యాస్త్రంతో రావణుని సంహరిస్తాడు. సీతను రక్షించిన తర్వాత ఆమె తన పవిత్రతను నిరూపించుకోవడానికి అగ్ని పరీక్షను ఎదుర్కొంటుంది మరియు నిష్కలంకంగా బయటపడుతుంది. ఈ యుద్ధం ధర్మం చెడుపై గెలిచినట్లుగా సూచిస్తుంది. ఇది ధైర్యం, క్రమశిక్షణ మరియు అహంకార ఫలితాలను నేర్పుతుంది.",
+    "hi": "लंका पहुँचने के बाद राम की सेना रावण की सेना से भयंकर युद्ध करती है। युद्ध में कुंभकर्ण, इंद्रजीत और अंततः रावण के साथ द्वंद्व होते हैं। राम धर्म के मार्ग पर चलते हुए युद्ध करते हैं जबकि रावण अपने अहंकार के साथ आगे बढ़ता है। विभीषण, रावण के भाई, राम का साथ देते हैं और उन्हें मूल्यवान सलाह देते हैं। अंत में, राम एक दिव्य बाण से रावण का वध करते हैं। सीता की रक्षा होती है लेकिन उन्हें अपनी पवित्रता सिद्ध करने के लिए अग्नि परीक्षा देनी पड़ती है जिसमें वे निष्कलंक सिद्ध होती हैं। यह युद्ध धर्म की अधर्म पर विजय का प्रतीक है और साहस, अनुशासन और अहंकार के परिणामों की शिक्षा देता है।",
+    "en": "After crossing to Lanka, Rama's army engages in a mighty battle with Ravana's forces. The war sees numerous duels, including those involving Kumbhakarna, Indrajit, and finally Ravana. Rama fights with righteousness, while Ravana relies on his power and ego. Vibhishana, Ravana’s brother who defects to Rama's side, advises him. Finally, in a grand climax, Rama kills Ravana with a divine arrow. Sita is rescued but must undergo the Agni Pariksha (trial by fire) to prove her purity. She emerges unscathed, symbolizing her chastity. The battle marks the victory of dharma over adharma, good over evil. Yuddha Kanda teaches courage, discipline, and the consequences of arrogance."
+  },
+  "image": "ravana_defeated.jpg"
+},
+{
+  "title": {
+    "te": "రాముని పట్టాభిషేకం",
+    "hi": "राम का राज्याभिषेक",
+    "en": "Rama’s Coronation"
+  },
+  "chapter": {
+    "te": "ఉత్తర ఖాండ",
+    "hi": "उत्तर कांड",
+    "en": "Uttara Kanda"
+  },
+  "characters": {
+    "te": ["రాముడు", "సీత", "లక్ష్మణుడు", "భరతుడు"],
+    "hi": ["राम", "सीता", "लक्ष्मण", "भरत"],
+    "en": ["Rama", "Sita", "Lakshmana", "Bharata"]
+  },
+  "location": {
+    "te": "అయోధ్య",
+    "hi": "अयोध्या",
+    "en": "Ayodhya"
+  },
+  "quote": {
+    "te": "ధర్మమే మన పాలనకు మార్గదర్శకం కావాలి.",
+    "hi": "धर्म ही हमारे राज्य का मार्गदर्शक बने।",
+    "en": "Let dharma guide our kingdom."
+  },
+  "summary": {
+    "te": "రాముడు లంక విజయం తర్వాత అయోధ్యకు తిరిగి వచ్చి మహా ఉత్సవంతో రాజుగా పట్టాభిషేకం పొందుతాడు.",
+    "hi": "राम लंका विजय के बाद अयोध्या लौटते हैं और भव्य समारोह में उनका राज्याभिषेक होता है।",
+    "en": "Rama returns to Ayodhya and is crowned king. Peace and prosperity prevail."
+  },
+  "moral": {
+    "te": "మంచితనంతో పాటు సహనం మరియు త్యాగం చివరికి విజయాన్ని తెస్తాయి.",
+    "hi": "भलाई, धैर्य और त्याग अंततः विजय दिलाते हैं।",
+    "en": "Goodness, patience, and sacrifice lead to ultimate victory."
+  },
+  "long_description": {
+    "te": "ఉత్తర ఖాండ రామాయణాన్ని ముగించేది. రావణునిపై విజయం సాధించిన రాముడు పుష్పక విమానంలో అయోధ్యకు తిరిగి వస్తాడు. ప్రజలు ఆనందిస్తారు, భరతుడు అతనిని ఆహ్వానించి రాజ్యాన్ని తిరిగి ఇస్తాడు. రాముడు ఘనంగా రాజుగా పట్టాభిషేకం చేయించుకుంటాడు. ఆయన పరిపాలనలో రాజ్యం ధర్మబద్ధంగా, శాంతిగా సాగుతుంది. కానీ సీత లంకలో గడిపిన కాలం గురించి ఊహాగానాలు వ్యాపిస్తాయి. తన పేరు గౌరవాన్ని కాపాడేందుకు రాముడు ఆమెను అరణ్యంలోకి పంపించవలసి వస్తుంది. అక్కడ ఆమె వాల్మీకి ఆశ్రమంలో ఆశ్రయం పొందుతుంది మరియు లవ, కుశుల్ని ప్రసవిస్తుంది. చివరికి రాముడు తన కుమారులతో కలుసుకుంటాడు కానీ సీత ధైర్యంగా భూమిదేవికి విలీనం అవుతుంది. రాముడు అనేక సంవత్సరాలు పాలన చేసి తరువాత ఈ లోకాన్ని విడిచి వెళ్తాడు. ఉత్తర ఖాండ మనకు దైవస్వరూపులైనవారికీ జీవితం లో కఠినమైన నిర్ణయాలు తీసుకోవలసి వస్తుందని గుర్తుచేస్తుంది.",
+    "hi": "उत्तर कांड रामायण का समापन करता है। रावण का वध करने के बाद राम पुष्पक विमान से अयोध्या लौटते हैं। जनता प्रसन्न होती है और भरत उनका स्वागत करके राज्य उन्हें लौटा देते हैं। राम का भव्य राज्याभिषेक होता है और उनके शासन में राज्य में न्याय और शांति का वास होता है। लेकिन सीता के लंका में बिताए समय को लेकर अफवाहें फैलने लगती हैं। अपनी प्रतिष्ठा की रक्षा के लिए राम दुखी मन से सीता को वनवास भेजते हैं। वहाँ वह वाल्मीकि के आश्रम में शरण लेती हैं और लव-कुश को जन्म देती हैं। अंततः राम अपने पुत्रों से मिलते हैं, लेकिन सीता दुखी होकर धरती माता में विलीन हो जाती हैं। राम लंबे समय तक राज्य करते हैं और फिर इस संसार को त्याग देते हैं। उत्तर कांड हमें सिखाता है कि ईश्वर स्वरूपों को भी जीवन में कठिन निर्णयों का सामना करना पड़ता है।",
+    "en": "Uttara Kanda concludes the Ramayana. After defeating Ravana, Rama returns to Ayodhya in Pushpaka Vimana. The people rejoice, and Bharata welcomes him back, returning the kingdom. Rama is crowned king with grand celebration. Under his rule, the kingdom prospers with justice and peace. However, rumors about Sita's time in Lanka begin to spread. To uphold his reputation, Rama makes the painful decision to send Sita away to the forest. There, she finds shelter in sage Valmiki’s ashram and gives birth to Lava and Kusha. Eventually, Rama meets his sons, but Sita, heartbroken, returns to Mother Earth. Rama rules for many years before departing the mortal world. The Uttara Kanda reminds us that even divine beings face difficult decisions in life."
+  },
+  "image": "rama_coronation.jpg"
+}
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
